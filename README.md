@@ -8,3 +8,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/dumaaas/count.svg" />
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dumaaas&show_icons=true&locale=en&layout=dumaaas" alt="rouamansour" /></p>
+
